@@ -167,7 +167,7 @@
             <!-- Project 1 -->
             <div class="group cursor-pointer">
                 <div class="relative overflow-hidden rounded-lg">
-                    <img src="images/project-luxury-villa.jpg" 
+                    <img src="images/design-01.jpg" 
                          alt="Luxury Villa Interior" 
                          class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500">
                     <div class="absolute inset-0 bg-charcoal/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
@@ -182,7 +182,7 @@
             <!-- Project 2 -->
             <div class="group cursor-pointer">
                 <div class="relative overflow-hidden rounded-lg">
-                    <img src="images/project-office-space.jpg" 
+                    <img src="images/design-02.jpg" 
                          alt="Office Space Interior" 
                          class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500">
                     <div class="absolute inset-0 bg-charcoal/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
@@ -197,7 +197,7 @@
             <!-- Project 3 -->
             <div class="group cursor-pointer">
                 <div class="relative overflow-hidden rounded-lg">
-                    <img src="images/project-apartment.jpg" 
+                    <img src="images/design-03.jpg" 
                          alt="Apartment Interior" 
                          class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500">
                     <div class="absolute inset-0 bg-charcoal/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
